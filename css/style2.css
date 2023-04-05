@@ -1,0 +1,41 @@
+.box {
+    background-color:gray ;
+    border: 8px solid lightgrey ;
+    width: 80vw;
+    height: 80vh;
+    margin: 0 auto;
+    margin-top:5%;
+background-image: url(https://favim.com/pd/p/orig/2018/10/10/fabric-aesthetic-velvet-Favim.com-6404669.jpg);
+background-position: center;
+background-size: 100%;
+
+  }
+  .text{
+    text-align: center;
+    font-size: 150%;
+    color:darkslategray ;
+  }
+  .test{
+    text-align: center;
+    color: darkslategray;
+    font-size: 400%;
+  }
+  .text2{
+color: darkslategrey;
+text-align: center;
+font-size:150% ;
+  }
+  .text3{
+    border-radius: 10px;
+    margin-left:47% ;
+    font-size:20px ;
+  }
+
+  .icons{
+    text-align: center;
+    
+   
+  }
+ .icons i {
+    margin: 0 20px;
+ }

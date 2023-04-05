@@ -1,0 +1,25 @@
+.box {
+    background-color:lemonchiffon ;
+    width: 300px;
+    border: 15px solid lightskyblue ;
+    padding: 50px;
+    margin: 20px;
+    margin: 0 auto;
+    width: 50vw;
+    height: 60vh;
+  }
+
+.box1{
+    border: 2px solid purple;
+    margin: 0 auto;
+    color: darkslateblue;
+    width: 100%;
+    height: 10%;
+   
+}
+
+.box .cards{
+    display: flex;
+  gap: 10px;
+    
+}
